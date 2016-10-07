@@ -1,0 +1,5 @@
+Connect pin 18 on all MC23017 to pin 2 on ESP8266-01
+Renove R3
+When installing R12, cut away pin 4
+When installing R11, cut away pin 5
+If bending X1, be carefull not to touch any circuits
