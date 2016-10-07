@@ -1,0 +1,44 @@
+D010    draw      0.00591
+D011    draw      0.00512
+D012    draw      0.00650
+D013    draw      0.00709
+D014    draw      0.00768
+D015    draw      0.01024
+D016    draw      0.01100
+D017    draw      0.01102
+D018    draw      0.01181
+D019    draw      0.01969
+D020    draw      0.02362
+D021    draw      0.03937
+D022    draw      0.03938
+D023    draw      0.04000
+D024    draw      0.19685
+D025    rectangle 0.05000 x 0.09843 x 180.000
+D026    rectangle 0.05000 x 0.09843 x 270.000
+D027    rectangle 0.06500 x 0.08500
+D028    rectangle 0.06850 x 0.09843 x 90.000
+D029    rectangle 0.06850 x 0.09843 x 180.000
+D030    rectangle 0.06850 x 0.09843 x 270.000
+D031    octagon   0.06299 x 90.000
+D032    oval      0.06850 x 0.09843 x 90.000
+D033    oval      0.06850 x 0.09843 x 180.000
+D034    oval      0.06850 x 0.09843 x 270.000
+D035    octagon   0.07087
+D036    octagon   0.07087 x 90.000
+D037    octagon   0.07087 x 180.000
+D038    octagon   0.07480 x 90.000
+D039    octagon   0.07874
+D040    octagon   0.07874 x 90.000
+D041    octagon   0.07874 x 270.000
+D042    octagon   0.08858 x 90.000
+D043    octagon   0.08858 x 270.000
+D044    octagon   0.12205 x 180.000
+D045    oval      0.12598 x 0.07874 x 90.000
+D046    oval      0.12598 x 0.07874 x 270.000
+D047    octagon   0.14567 x 180.000
+D048    oval      0.05000 x 0.09843 x 180.000
+D049    oval      0.05000 x 0.09843 x 270.000
+D050    oval      0.06500 x 0.08500
+D051    oval      0.12500 x 0.12500
+D052    roundrect 0.06299 x 0.06299 x 0.00630 x 90.000
+D053    roundrect 0.09843 x 0.13780 x 0.00492 x 90.000
