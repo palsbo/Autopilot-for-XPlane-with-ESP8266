@@ -9,3 +9,7 @@ OBS! read the file 'corrections.tex' before mounting the printed curcuit.
 Software:
 The software for the ESP8266 is in the Arduino folder together with all required libraries.
 (for Arduino IDE)
+
+Se beskrivelse p http://palsbo.com/xplane/Autopilot.html 
+
+Files in this GitHup are the newest
