@@ -4,7 +4,7 @@ This is a hardware based autopilot to be useed together with X-Plane (tested on 
 
 Hardware:
 The printed circuit is developed in Target3001
-OBS! read the file 'corrections.tex' before mounting the printed curcuit.
+OBS! read the file 'corrections.txt' before mounting the printed curcuit.
 
 Software:
 The software for the ESP8266 is in the Arduino folder together with all required libraries.
