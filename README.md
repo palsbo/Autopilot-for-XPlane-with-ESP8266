@@ -10,6 +10,6 @@ Software:
 The software for the ESP8266 is in the Arduino folder together with all required libraries.
 (for Arduino IDE)
 
-Se beskrivelse p http://palsbo.com/xplane/Autopilot.html 
+Project details here: http://palsbo.com/xplane/Autopilot.html 
 
 Files in this GitHup are the newest
